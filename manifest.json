@@ -1,11 +1,10 @@
 {
-	"id": "sample-plugin",
-	"name": "Sample Plugin",
+	"id": "obsidian-GPT-IsAwk",
+	"name": "Is it AwkWard?",
 	"version": "1.0.0",
 	"minAppVersion": "0.15.0",
-	"description": "Demonstrates some of the capabilities of the Obsidian API.",
-	"author": "Obsidian",
-	"authorUrl": "https://obsidian.md",
-	"fundingUrl": "https://obsidian.md/pricing",
+	"description": "GPT will evaluate your sentence and give a feedback",
+	"author": "inkyunp",
+	"authorUrl": "https://github.com/inkyunp/obsidian-GPT-IsAwk",
 	"isDesktopOnly": false
 }
